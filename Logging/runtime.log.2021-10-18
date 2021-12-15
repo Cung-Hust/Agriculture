@@ -1,0 +1,2 @@
+2021-10-18 01:52:37,908:	ERROR:	MqttDataHandler.py:__handler_device_to_cloud_response_topic():81	mqtt data receiver in topic device/cloud/response invalid
+2021-10-18 02:00:14,526:	ERROR:	MqttDataHandler.py:__handler_device_to_cloud_response_topic():81	mqtt data receiver in topic device/cloud/response invalid

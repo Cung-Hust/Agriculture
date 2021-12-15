@@ -1,0 +1,26 @@
+2021-12-14 10:35:23,667:	ERROR:	MqttDataHandler.py:__handler_control_cmd():89	mqtt data receiver in topic v1/devices/me/rpc/request/+ invalid
+2021-12-14 10:51:26,732:	ERROR:	MqttDataHandler.py:__handler_control_cmd():89	mqtt data receiver in topic v1/devices/me/rpc/request/+ invalid
+2021-12-14 10:52:27,248:	ERROR:	MqttDataHandler.py:__handler_control_cmd():91	mqtt data receiver in topic v1/devices/me/rpc/request/+ invalid
+2021-12-14 10:53:35,405:	ERROR:	MqttDataHandler.py:__handler_control_cmd():94	mqtt data receiver in topic v1/devices/me/rpc/request/+ invalid
+2021-12-14 10:54:37,453:	ERROR:	MqttDataHandler.py:__handler_control_cmd():94	mqtt data receiver in topic v1/devices/me/rpc/request/+ invalid
+2021-12-14 10:56:24,099:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x02\x00\r\n'
+2021-12-14 10:58:04,591:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x02\x00\r\n'
+2021-12-14 10:59:19,864:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x02\x00\r\n'
+2021-12-14 11:00:39,215:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x02\x01\r\n'
+2021-12-14 11:01:34,301:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x02\x00\r\n'
+2021-12-14 11:01:37,773:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x02\x01\r\n'
+2021-12-14 11:02:30,829:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x03\x01\r\n'
+2021-12-14 11:02:34,696:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x00\x03\x00\r\n'
+2021-12-14 11:03:13,501:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:03:17,215:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x00\r\n'
+2021-12-14 11:03:19,723:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:03:44,877:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x00\r\n'
+2021-12-14 11:03:51,003:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:06:59,393:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:07:11,043:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x00\r\n'
+2021-12-14 11:07:32,229:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:07:57,540:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x00\r\n'
+2021-12-14 11:08:41,259:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:08:47,332:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x00\r\n'
+2021-12-14 11:09:06,352:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x01\r\n'
+2021-12-14 11:09:12,277:	INFO:	UART.py:send():40	send uart: b'\x00\x05\x03\x00\x00\r\n'
